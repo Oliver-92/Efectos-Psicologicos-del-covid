@@ -23,8 +23,8 @@ Algunos de los resultados iniciales de este análisis son:<br>
 •	Random Forest<br>
 •	Support Vector Machine (SVM)<br>
 <h2>Dashboard</h2>
-<a href="https://lookerstudio.google.com/s/lGvQdXWqNag" target="_blank">Abrir dahsboard interactivo</a>
-<br>
+<a href="https://lookerstudio.google.com/s/lGvQdXWqNag" target="_blank">Abrir dahsboard interactivo</a><br>
+
 <img src="Assets\Dashboard.png" alt="Dashboard">
 <h2>Sobre el conjunto de datos: </h2>
 El conjunto de datos fue recopilado con la ayuda de Google Forms. Los datos contienen respuestas a diversas preguntas proporcionadas por diversas personas. La mayoría de las preguntas en el formulario se presentaron como opción múltiple para evitar problemas relacionados con mayúsculas y minúsculas.<br>
