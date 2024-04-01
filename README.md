@@ -22,6 +22,9 @@ Algunos de los resultados iniciales de este análisis son:<br>
 •	Regresión Logística<br>
 •	Random Forest<br>
 •	Support Vector Machine (SVM)<br>
+<h2>Dashboard</h2>
+<a href="https://lookerstudio.google.com/s/lGvQdXWqNag">Abrir dahsboard interactivo</a>
+<img src="Assets\Dashboard.png" alt="Dashboard">
 <h2>Sobre el conjunto de datos: </h2>
 El conjunto de datos fue recopilado con la ayuda de Google Forms. Los datos contienen respuestas a diversas preguntas proporcionadas por diversas personas. La mayoría de las preguntas en el formulario se presentaron como opción múltiple para evitar problemas relacionados con mayúsculas y minúsculas.<br>
 Una versión de este conjunto de datos se utilizó para publicar un artículo de investigación.<br>
