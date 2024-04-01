@@ -15,7 +15,7 @@ Una versión de este conjunto de datos se utilizó para publicar un artículo de
 Este es un conjunto de datos procesado con los mismos aspectos estructurales que los datos sin procesar. Tenga en cuenta que los datos sin procesar no pueden ser compartidos ya que contienen información de identificación personal (PII).<br>
 Columnas:<br>
 Las columnas presentes son las siguientes:<br>
-**age**: Grupo de edad de la persona<br>
+**age** : Grupo de edad de la persona<br>
 **gender**: Género de la persona<br>
 **occupation**: Ocupación/sector donde trabaja la persona<br>
 **line_of_work**: La línea de trabajo realizada por la persona<br>
