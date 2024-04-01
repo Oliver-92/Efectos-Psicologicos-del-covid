@@ -53,3 +53,9 @@ Las columnas presentes son las siguientes:<br>
 •	net_diff Columna Personalizada<br>
 Tenga en cuenta que si alguna columna parece binaria, esto fue un problema de codificación y está en el rango binario. Por lo tanto, cuanto mayor sea el valor, mayor será el valor real.<br>
 *Las columnas personalizadas pueden ser ignoradas.
+<h2>Visualizaciones</h2>
+<p>Algunas de las visualizaciones desarrollados durante el análisis del conjunto de datos:</p>
+<p>Matriz de correlación entre las diferentes variables presentes en el dataset</p>
+<img src="Assets\Matriz de correlación.png" alt="Matriz-de-correlacion">
+<p>Gráfico comparativo del tiempo de trabajo dedicado antes y durante la pandemia, discriminando por ocupación laboral</p>
+<img src="Assets\Horas de trabajo.png" alt="Horas-de-trabajo">
