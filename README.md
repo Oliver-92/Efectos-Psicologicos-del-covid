@@ -1,17 +1,26 @@
 <h2>Introducción</h2>
 En el presente trabajo se realizó un Análisis Exploratorio en un conjunto de datos resultado de una encuesta a diversas personas sobre cambios percibidos a partir de la pandemia del COVID-19 en su vida personal y laboral. 
-Algunos de los resultados de este análisis son:<br>
-•	La mayoría de los encuestados son hombres, representando el 55.2% del total, mientras que las mujeres representan el 44.4%.<br>
-•	Una gran proporción de los encuestados (71.1%) prefieren la asistencia física completa, mientras que el 28.9% prefieren trabajar desde la casa.<br>
-•	El tiempo de trabajo más común antes de la pandemia es alrededor de 7 horas, con un número significativo de encuestados también pasando alrededor de 9 horas.<br>
+Algunos de los resultados de este análisis son:
++ La mayoría de los encuestados son hombres, representando el 55.2% del total, mientras que las mujeres representan el 44.4%.
++ Una gran proporción de los encuestados (71.1%) prefieren la asistencia física completa, mientras que el 28.9% prefieren trabajar desde la casa.
++ El tiempo de trabajo más común antes de la pandemia es alrededor de 7 horas, con un número significativo de encuestados también pasando alrededor de 9 horas.
 <h2>Objetivos</h2>
-• Realizar un análisis detallado del conjunto de datos.<br>
-• Desarrollar visualizaciones  que permitan observar las principales características de los datos y sus relaciones.<br>
-• Entrenar un modelo de ML con el fin de predecir la preferencia por la modalidad de trabajo (física o virtual).<br>
-• Entrenar un modelo de ML con el fin de predecir si hubo un cambio en el estilo de vida a partir de la pandemia.<br>
++ Realizar un análisis detallado del conjunto de datos.<br>
++ Desarrollar visualizaciones  que permitan observar las principales características de los datos y sus relaciones.<br>
++ Entrenar un modelo de ML con el fin de predecir la preferencia por la modalidad de trabajo (física o virtual).<br>
++ Entrenar un modelo de ML con el fin de predecir si hubo un cambio en el estilo de vida a partir de la pandemia.<br>
+<h2>Tecnologías Utilizadas</h2>
++ Python
++ Jupyter Notebooks
++ Power BI
++ Pandas
++ NumPy
++ Matplotlib
++ Seaborn
++ Scikit-Learn
 <h2>Sobre el conjunto de datos: </h2>
 El conjunto de datos fue recopilado con la ayuda de Google Forms. Los datos contienen respuestas a diversas preguntas proporcionadas por diversas personas. La mayoría de las preguntas en el formulario se presentaron como opción múltiple para evitar problemas relacionados con mayúsculas y minúsculas.<br>
-Una versión de este **conjunto** de datos se utilizó para publicar un artículo de investigación.<br>
+Una versión de este conjunto de datos se utilizó para publicar un artículo de investigación.<br>
 Este es un conjunto de datos procesado con los mismos aspectos estructurales que los datos sin procesar. Tenga en cuenta que los datos sin procesar no pueden ser compartidos ya que contienen información de identificación personal (PII).<br>
 Columnas:<br>
 Las columnas presentes son las siguientes:<br>
