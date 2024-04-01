@@ -1,9 +1,9 @@
 <h2>Introducción</h2>
 En el presente trabajo se realizó un Análisis Exploratorio en un conjunto de datos resultado de una encuesta a diversas personas sobre cambios percibidos a partir de la pandemia del COVID-19 en su vida personal y laboral. 
-Algunos de los resultados iniciales de este análisis son:
-•	La mayoría de los encuestados son hombres, representando el 55.2% del total, mientras que las mujeres representan el 44.4%.
-•	Una gran proporción de los encuestados (71.1%) prefieren la asistencia física completa, mientras que el 28.9% prefieren trabajar desde la casa.
-•	El tiempo de trabajo más común antes de la pandemia es alrededor de 7 horas, con un número significativo de encuestados también pasando alrededor de 9 horas.
+Algunos de los resultados iniciales de este análisis son:<br>
+•	La mayoría de los encuestados son hombres, representando el 55.2% del total, mientras que las mujeres representan el 44.4%.<br>
+•	Una gran proporción de los encuestados (71.1%) prefieren la asistencia física completa, mientras que el 28.9% prefieren trabajar desde la casa.<br>
+•	El tiempo de trabajo más común antes de la pandemia es alrededor de 7 horas, con un número significativo de encuestados también pasando alrededor de 9 horas.<br>
 <h2>Objetivos</h2>
 •	Realizar un análisis detallado del conjunto de datos.<br>
 •	Desarrollar visualizaciones  que permitan observar las principales características de los datos y sus relaciones.<br>
