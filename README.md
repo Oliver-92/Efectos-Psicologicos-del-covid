@@ -15,28 +15,28 @@ Una versión de este conjunto de datos se utilizó para publicar un artículo de
 Este es un conjunto de datos procesado con los mismos aspectos estructurales que los datos sin procesar. Tenga en cuenta que los datos sin procesar no pueden ser compartidos ya que contienen información de identificación personal (PII).<br>
 Columnas:<br>
 Las columnas presentes son las siguientes:<br>
-age: Grupo de edad de la persona<br>
-gender: Género de la persona<br>
-occupation: Ocupación/sector donde trabaja la persona<br>
-line_of_work: La línea de trabajo realizada por la persona<br>
-time_bp: El tiempo dedicado al trabajo antes de la pandemia<br>
-time_dp: El tiempo dedicado al trabajo durante la pandemia<br>
-travel_time: El tiempo dedicado a viajar<br>
-easeof_online: Valoración de la adaptación al trabajo en línea<br>
-home_env: Gusto por el entorno del hogar<br>
-prod_inc: Valoración del aumento de la productividad<br>
-sleep_bal: Valoración del ciclo de sueño<br>
-new_skill: Si se aprendió alguna nueva habilidad<br>
-fam_connect: Valoración de qué tan bien se conectó la persona con su familia<br>
-relaxed: Valoración de qué tan relajada se siente la persona<br>
-self_time: Valoración de cuánto tiempo para uno mismo se obtuvo<br>
-like_hw: Gusto por trabajar desde casa<br>
-dislike_hw: Disgusto por trabajar desde casa<br>
-prefer: Preferencia de la persona por trabajar desde casa/oficina<br>
-certaindays_hw: Gusto por la posibilidad de trabajar desde casa ciertos días<br>
-X Columna Personalizada<br>
-time_bp.1 Columna Personalizada<br>
-travel_new Columna Personalizada<br>
-net_diff Columna Personalizada<br>
+**age**: Grupo de edad de la persona<br>
+**gender**: Género de la persona<br>
+**occupation**: Ocupación/sector donde trabaja la persona<br>
+**line_of_work**: La línea de trabajo realizada por la persona<br>
+**time_bp**: El tiempo dedicado al trabajo antes de la pandemia<br>
+**time_dp**: El tiempo dedicado al trabajo durante la pandemia<br>
+**travel_time**: El tiempo dedicado a viajar<br>
+**easeof_online**: Valoración de la adaptación al trabajo en línea<br>
+**home_env**: Gusto por el entorno del hogar<br>
+**prod_inc**: Valoración del aumento de la productividad<br>
+**sleep_bal**: Valoración del ciclo de sueño<br>
+**new_skill**: Si se aprendió alguna nueva habilidad<br>
+**fam_connect**: Valoración de qué tan bien se conectó la persona con su familia<br>
+**relaxed**: Valoración de qué tan relajada se siente la persona<br>
+**self_time**: Valoración de cuánto tiempo para uno mismo se obtuvo<br>
+**like_hw**: Gusto por trabajar desde casa<br>
+**dislike_hw**: Disgusto por trabajar desde casa<br>
+**prefer**: Preferencia de la persona por trabajar desde casa/oficina<br>
+**certaindays_hw**: Gusto por la posibilidad de trabajar desde casa ciertos días<br>
+**X** Columna Personalizada<br>
+**time_bp.1** Columna Personalizada<br>
+**travel_new** Columna Personalizada<br>
+**net_diff** Columna Personalizada<br>
 Tenga en cuenta que si alguna columna parece binaria, esto fue un problema de codificación y está en el rango binario. Por lo tanto, cuanto mayor sea el valor, mayor será el valor real.<br>
 *Las columnas personalizadas pueden ser ignoradas.
