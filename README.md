@@ -11,7 +11,7 @@ Algunos de los resultados de este análisis son:<br>
 • Entrenar un modelo de ML con el fin de predecir si hubo un cambio en el estilo de vida a partir de la pandemia.<br>
 <h2>Sobre el conjunto de datos: </h2>
 El conjunto de datos fue recopilado con la ayuda de Google Forms. Los datos contienen respuestas a diversas preguntas proporcionadas por diversas personas. La mayoría de las preguntas en el formulario se presentaron como opción múltiple para evitar problemas relacionados con mayúsculas y minúsculas.<br>
-Una versión de este conjunto de datos se utilizó para publicar un artículo de investigación.<br>
+Una versión de este **conjunto** de datos se utilizó para publicar un artículo de investigación.<br>
 Este es un conjunto de datos procesado con los mismos aspectos estructurales que los datos sin procesar. Tenga en cuenta que los datos sin procesar no pueden ser compartidos ya que contienen información de identificación personal (PII).<br>
 Columnas:<br>
 Las columnas presentes son las siguientes:<br>
