@@ -11,7 +11,7 @@ Algunos de los resultados iniciales de este análisis son:<br>
 •	Entrenar un modelo de ML con el fin de predecir si hubo un cambio en el estilo de vida a partir de la pandemia.<br>
 <h2>Tecnologías Utilizadas</h2>
 •	Python<br>
-•	Colab Notebook<br>
+•	Jupyter Notebook<br>
 •	Looker Studio<br>
 •	Pandas<br>
 •	NumPy<br>
